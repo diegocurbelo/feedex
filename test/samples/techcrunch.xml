@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
+	>
+
+<channel>
+	<title>TechCrunch</title>
+	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://techcrunch.com</link>
+	<description>Startup and Technology News</description>
+	<lastBuildDate>Tue, 08 Aug 2017 00:59:24 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+<cloud domain='techcrunch.com' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
+<image>
+		<url>https://secure.gravatar.com/blavatar/d9ea925a71f82f06a1e6224298f7fe80?s=96&#038;d=https%3A%2F%2Fs2.wp.com%2Fi%2Fbuttonw-com.png</url>
+		<title>TechCrunch</title>
+		<link>https://techcrunch.com</link>
+	</image>
+	<atom:link rel="search" type="application/opensearchdescription+xml" href="https://techcrunch.com/osd.xml" title="TechCrunch" />
+	<atom:link rel='hub' href='https://techcrunch.com/?pushpress=hub'/>
+	<item>
+		<title>Dueling AIs compete in learning to walk, secretly manipulating images and more at NIPS</title>
+		<link>https://techcrunch.com/2017/08/07/dueling-ais-compete-in-learning-to-walk-secretly-manipulating-images-and-more-at-nips/?ncid=rss</link>
+		<comments>https://techcrunch.com/2017/08/07/dueling-ais-compete-in-learning-to-walk-secretly-manipulating-images-and-more-at-nips/#respond</comments>
+		<pubDate>Tue, 08 Aug 2017 00:10:51 +0000</pubDate>
+		<dc:creator><![CDATA[Devin Coldewey]]></dc:creator>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Developer]]></category>
+		<category><![CDATA[Science]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[machine learning]]></category>
+		<category><![CDATA[chatbots]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1524413</guid>
+		<description><![CDATA[<img width="680" height="479" src="https://tctechcrunch2011.files.wordpress.com/2016/10/gettyimages-85758332.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2016/10/gettyimages-85758332.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2016/10/gettyimages-85758332.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2016/10/gettyimages-85758332.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2016/10/gettyimages-85758332.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2016/10/gettyimages-85758332.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;A little competitive spirit is often just the thing when you want to spur some innovation, and that&#8217;s exactly the idea at the Neural Information Processing Systems conference, where AI systems will be competing in a variety of tasks. Teams are already setting their systems against one another imitating how muscles work when we walk, answering pub quiz questions, and subtly&hellip; <a href="https://techcrunch.com/2017/08/07/dueling-ais-compete-in-learning-to-walk-secretly-manipulating-images-and-more-at-nips/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2017/08/07/dueling-ais-compete-in-learning-to-walk-secretly-manipulating-images-and-more-at-nips/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/10/gettyimages-85758332.jpg?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2016/10/gettyimages-85758332.jpg" type="image/jpeg" medium="image"><media:title type="html">Dueling%20AIs%20compete%20in%20learning%20to%20walk%2C%20secretly%20manipulating%20images%20and%20more%20at%26nbsp%3BNIPS</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/10/gettyimages-85758332.jpg" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2016/10/gettyimages-85758332.jpg" medium="image">
+			<media:title type="html">Artificial intelligence and cybernetics</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/69fae9a8a3933fa91e81c086b8eee14a?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">devin</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/08/out.gif" medium="image" />
+	</item>
+		<item>
+		<title>Researchers use radio waves to wirelessly monitor sleep patterns</title>
+		<link>https://techcrunch.com/2017/08/07/researchers-use-radio-waves-to-wirelessly-monitor-sleep-patterns/?ncid=rss</link>
+		<comments>https://techcrunch.com/2017/08/07/researchers-use-radio-waves-to-wirelessly-monitor-sleep-patterns/#respond</comments>
+		<pubDate>Mon, 07 Aug 2017 23:36:07 +0000</pubDate>
+		<dc:creator><![CDATA[Brian Heater]]></dc:creator>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Health]]></category>
+		<category><![CDATA[Science]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[MIT]]></category>
+		<category><![CDATA[sleep]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1524429</guid>
+		<description><![CDATA[<img width="680" height="413" src="https://tctechcrunch2011.files.wordpress.com/2017/08/mit-sleep-signals-2-press.jpeg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2017/08/mit-sleep-signals-2-press.jpeg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2017/08/mit-sleep-signals-2-press.jpeg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2017/08/mit-sleep-signals-2-press.jpeg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2017/08/mit-sleep-signals-2-press.jpeg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2017/08/mit-sleep-signals-2-press.jpeg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;MIT researchers have unveiled a new method for wirelessly monitoring sleep. The whole thing works a bit like echolocation &#8212; radio waves are beamed off a sleeping subject and changes in the body are detected when they bounce back. The research is the latest in a number of different activities the team has been monitoring using low-power radio waves. <a href="https://techcrunch.com/2017/08/07/researchers-use-radio-waves-to-wirelessly-monitor-sleep-patterns/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2017/08/07/researchers-use-radio-waves-to-wirelessly-monitor-sleep-patterns/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/08/mit-sleep-signals-2-press.jpeg?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/08/mit-sleep-signals-2-press.jpeg" type="image/jpeg" medium="image"><media:title type="html">Researchers%20use%20radio%20waves%20to%20wirelessly%20monitor%20sleep%26nbsp%3Bpatterns</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/08/mit-sleep-signals-2-press.jpeg" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/08/mit-sleep-signals-2-press.jpeg" medium="image">
+			<media:title type="html">MIT-Sleep-Signals-2-Press</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/69b6dc548d05dedd0132f12e075bf7de?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">bheater</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>CBS to expand CBS All Access internationally, plans a live streaming service for sports</title>
+		<link>https://techcrunch.com/2017/08/07/cbs-to-expand-cbs-all-access-internationally-plans-a-live-streaming-service-for-sports/?ncid=rss</link>
+		<comments>https://techcrunch.com/2017/08/07/cbs-to-expand-cbs-all-access-internationally-plans-a-live-streaming-service-for-sports/#respond</comments>
+		<pubDate>Mon, 07 Aug 2017 22:22:17 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+				<category><![CDATA[Media]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[CBS]]></category>
+		<category><![CDATA[cord cutting]]></category>
+		<category><![CDATA[tv]]></category>
+		<category><![CDATA[television]]></category>
+		<category><![CDATA[streaming TV]]></category>
+		<category><![CDATA[streaming service]]></category>
+		<category><![CDATA[live tv service]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1524423</guid>
+		<description><![CDATA[<img width="431" height="325" src="https://tctechcrunch2011.files.wordpress.com/2017/04/cbs-all-access2.png?w=431" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2017/04/cbs-all-access2.png 431w, https://tctechcrunch2011.files.wordpress.com/2017/04/cbs-all-access2.png?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2017/04/cbs-all-access2.png?w=300 300w" sizes="(max-width: 431px) 100vw, 431px" />&nbsp;On the heels of this morning&#8217;s news of a deal that brings CBS channels to AT&#38;T&#8217;s DirecTV Now, the network this afternoon announced its plans to expand its own streaming service, CBS All Access, to international markets. The expansion will begin with a launch in Canada in the first half of next year, with other markets to follow. <a href="https://techcrunch.com/2017/08/07/cbs-to-expand-cbs-all-access-internationally-plans-a-live-streaming-service-for-sports/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2017/08/07/cbs-to-expand-cbs-all-access-internationally-plans-a-live-streaming-service-for-sports/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/04/cbs-all-access2.png?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/04/cbs-all-access2.png" type="image/png" medium="image"><media:title type="html">CBS%20to%20expand%20CBS%20All%20Access%20internationally%2C%20plans%20a%20live%20streaming%20service%20for%26nbsp%3Bsports</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/04/cbs-all-access2.png" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/04/cbs-all-access2.png" medium="image">
+			<media:title type="html">cbs-all-access2</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/5225bb627e112543aa03bf3b2958be3f?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">sarahintampa</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Alphabet expands in Africa</title>
+		<link>https://techcrunch.com/2017/08/07/alphabet-spells-out-african-expansion/?ncid=rss</link>
+		<comments>https://techcrunch.com/2017/08/07/alphabet-spells-out-african-expansion/#respond</comments>
+		<pubDate>Mon, 07 Aug 2017 21:30:08 +0000</pubDate>
+		<dc:creator><![CDATA[Jake Bright]]></dc:creator>
+				<category><![CDATA[Column]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[ceo]]></category>
+		<category><![CDATA[Nigeria]]></category>
+		<category><![CDATA[africa]]></category>
+		<category><![CDATA[Lagos]]></category>
+		<category><![CDATA[Sundar Pichai]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Alphabet]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1524380</guid>
+		<description><![CDATA[<img width="680" height="453" src="https://tctechcrunch2011.files.wordpress.com/2017/08/google-214-1.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2017/08/google-214-1.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2017/08/google-214-1.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2017/08/google-214-1.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2017/08/google-214-1.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2017/08/google-214-1.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;Google is expanding its Africa initiatives, on the back of CEO Sundar Pichai&#8217;s recent trip to Nigeria. While visiting Lagos, he announced the global internet services company&#8217;s plans to train 10 million Africans in digital skills over the next five years. Alphabet will also increase its funding to African startups. <a href="https://techcrunch.com/2017/08/07/alphabet-spells-out-african-expansion/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2017/08/07/alphabet-spells-out-african-expansion/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/08/google-214-1.jpg?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/08/google-214-1.jpg" type="image/jpeg" medium="image"><media:title type="html">Alphabet%20expands%20in%26nbsp%3BAfrica</media:title></media:content><twitter> <![CDATA[ JakeRBright ]]> </twitter>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/08/google-214-1.jpg" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/08/google-214-1.jpg" medium="image">
+			<media:title type="html">Google-214 (1)</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/5633afc3b452c34446afd2ae0174cf86?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">shieberj</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/08/google-skill-4-2.png" medium="image" />
+	</item>
+		<item>
+		<title>UFO 50 is a 50-game love letter to the 8-bit era</title>
+		<link>https://techcrunch.com/2017/08/07/ufo-50-is-a-50-game-love-letter-to-the-8-bit-era/?ncid=rss</link>
+		<comments>https://techcrunch.com/2017/08/07/ufo-50-is-a-50-game-love-letter-to-the-8-bit-era/#respond</comments>
+		<pubDate>Mon, 07 Aug 2017 21:11:08 +0000</pubDate>
+		<dc:creator><![CDATA[Devin Coldewey]]></dc:creator>
+				<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[retro]]></category>
+		<category><![CDATA[UFO 50]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1524382</guid>
+		<description><![CDATA[<img width="680" height="340" src="https://tctechcrunch2011.files.wordpress.com/2017/08/ufo50.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2017/08/ufo50.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2017/08/ufo50.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2017/08/ufo50.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2017/08/ufo50.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2017/08/ufo50.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;Nostalgia may be a hot property right now, what with Nintendo&#8217;s classic consoles selling like hotcakes and retro pixel graphics in vogue, but God help me, I can&#8217;t get enough of it. Perhaps this 50-game collection from a host of talented and proven developers will sate my retro thirst. <a href="https://techcrunch.com/2017/08/07/ufo-50-is-a-50-game-love-letter-to-the-8-bit-era/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2017/08/07/ufo-50-is-a-50-game-love-letter-to-the-8-bit-era/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/08/ufo50.jpg?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/08/ufo50.jpg" type="image/jpeg" medium="image"><media:title type="html">UFO%2050%20is%20a%2050-game%20love%20letter%20to%20the%208-bit%26nbsp%3Bera</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/08/ufo50.jpg" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/08/ufo50.jpg" medium="image">
+			<media:title type="html">ufo50</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/69fae9a8a3933fa91e81c086b8eee14a?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">devin</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/08/ufo50_14.png?w=150" medium="image" />
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/08/ufo50_12.png?w=150" medium="image" />
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/08/ufo50_03.png?w=150" medium="image" />
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/08/ufo50_13.png?w=150" medium="image" />
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/08/ufo50_02.png?w=150" medium="image" />
+	</item>
+		<item>
+		<title>Former Rhapsody CEO and writer Rob Reid talks about fiction, finding an audience and the future</title>
+		<link>https://techcrunch.com/2017/08/07/former-rhapsody-ceo-and-writer-rob-reid-talks-about-fiction-finding-an-audience-and-the-future/?ncid=rss</link>
+		<comments>https://techcrunch.com/2017/08/07/former-rhapsody-ceo-and-writer-rob-reid-talks-about-fiction-finding-an-audience-and-the-future/#respond</comments>
+		<pubDate>Mon, 07 Aug 2017 21:03:45 +0000</pubDate>
+		<dc:creator><![CDATA[John Biggs]]></dc:creator>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[chemistry]]></category>
+		<category><![CDATA[matter]]></category>
+		<category><![CDATA[silicon]]></category>
+		<category><![CDATA[series]]></category>
+		<category><![CDATA[Silicon Valley]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1524314</guid>
+		<description><![CDATA[<img width="680" height="440" src="https://tctechcrunch2011.files.wordpress.com/2017/08/screen-shot-2017-08-07-at-2-07-09-pm.png?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2017/08/screen-shot-2017-08-07-at-2-07-09-pm.png?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2017/08/screen-shot-2017-08-07-at-2-07-09-pm.png?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2017/08/screen-shot-2017-08-07-at-2-07-09-pm.png?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2017/08/screen-shot-2017-08-07-at-2-07-09-pm.png?w=768 768w, https://tctechcrunch2011.files.wordpress.com/2017/08/screen-shot-2017-08-07-at-2-07-09-pm.png 1184w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;It takes a lot of smarts to move from tech CEO to full-time novelist, but Rob Reid pulled it off. The author of After On, Reid has spent years in the murk and mire of Silicon Valley and is ready to name names and, above all, explore all facets of the coming technological changes facing us all. I spoke to Reid about his new book, as well as the problem of finding an audience online and what&hellip; <a href="https://techcrunch.com/2017/08/07/former-rhapsody-ceo-and-writer-rob-reid-talks-about-fiction-finding-an-audience-and-the-future/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2017/08/07/former-rhapsody-ceo-and-writer-rob-reid-talks-about-fiction-finding-an-audience-and-the-future/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/technotopia/technotopiaReid.mp3" length="31565239" type="audio/mpeg" />
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/08/screen-shot-2017-08-07-at-2-07-09-pm.png?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/08/screen-shot-2017-08-07-at-2-07-09-pm.png" type="image/png" medium="image"><media:title type="html">Former%20Rhapsody%20CEO%20and%20writer%20Rob%20Reid%20talks%20about%20fiction%2C%20finding%20an%20audience%20and%20the%26nbsp%3Bfuture</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/08/screen-shot-2017-08-07-at-2-07-09-pm.png" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/08/screen-shot-2017-08-07-at-2-07-09-pm.png" medium="image">
+			<media:title type="html">Screen Shot 2017-08-07 at 2.07.09 PM</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/c0a943f484a32e62ed3bc81dd0dd25da?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">john</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Benchmark says Uber could be &#8216;comfortably&#8217; worth over $100 billion in next couple of years</title>
+		<link>https://techcrunch.com/2017/08/07/benchmark-uber-valuation/?ncid=rss</link>
+		<comments>https://techcrunch.com/2017/08/07/benchmark-uber-valuation/#respond</comments>
+		<pubDate>Mon, 07 Aug 2017 20:50:39 +0000</pubDate>
+		<dc:creator><![CDATA[Megan Rose Dickey]]></dc:creator>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Uber]]></category>
+		<category><![CDATA[Benchmark]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1524381</guid>
+		<description><![CDATA[<img width="680" height="453" src="https://tctechcrunch2011.files.wordpress.com/2017/07/gettyimages-699405118.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2017/07/gettyimages-699405118.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2017/07/gettyimages-699405118.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2017/07/gettyimages-699405118.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2017/07/gettyimages-699405118.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2017/07/gettyimages-699405118.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;Uber investor Benchmark says the firm is confident about Uber, &#8220;despite speculation to the contrary,&#8221; the firm wrote on Twitter today. In fact, Benchmark is &#8220;incredibly optimistic&#8221; about Uber&#8217;s future. The firm went on to say Uber could be &#8220;comfortably&#8221; worth more than $100 billion in the next couple of years, according to its own analysis. Today, Uber&hellip; <a href="https://techcrunch.com/2017/08/07/benchmark-uber-valuation/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2017/08/07/benchmark-uber-valuation/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/07/gettyimages-699405118.jpg?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/gettyimages-699405118.jpg" type="image/jpeg" medium="image"><media:title type="html">Benchmark%20says%20Uber%20could%20be%20%26%238216%3Bcomfortably%26%238217%3B%20worth%20over%20%24100%20billion%20in%20next%20couple%20of%26nbsp%3Byears</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/07/gettyimages-699405118.jpg" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/gettyimages-699405118.jpg" medium="image">
+			<media:title type="html">Uber CEO Kalanick Relinquishes Power After Investor Mutiny</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/e64a35398ab7fb3ff0de4f0817dc1c78?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">mdickey</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Uber co-founder Garrett Camp reportedly says &#8216;Travis is not returning as CEO&#8217;</title>
+		<link>https://techcrunch.com/2017/08/07/uber-co-founder-garrett-camp-reportedly-says-travis-is-not-returning-as-ceo/?ncid=rss</link>
+		<comments>https://techcrunch.com/2017/08/07/uber-co-founder-garrett-camp-reportedly-says-travis-is-not-returning-as-ceo/#respond</comments>
+		<pubDate>Mon, 07 Aug 2017 19:28:58 +0000</pubDate>
+		<dc:creator><![CDATA[Megan Rose Dickey]]></dc:creator>
+				<category><![CDATA[Personnel]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Garrett Camp]]></category>
+		<category><![CDATA[Travis Kalanick]]></category>
+		<category><![CDATA[Uber]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1524354</guid>
+		<description><![CDATA[<img width="680" height="383" src="https://tctechcrunch2011.files.wordpress.com/2012/09/517478738_3_o.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2012/09/517478738_3_o.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2012/09/517478738_3_o.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2012/09/517478738_3_o.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2012/09/517478738_3_o.jpg?w=768 768w, https://tctechcrunch2011.files.wordpress.com/2012/09/517478738_3_o.jpg 1280w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;Despite reports and rumors of former Uber CEO Travis Kalanick trying to make his way back to the company, Uber co-founder and board member Garrett Camp says otherwise, Recode reports. <a href="https://techcrunch.com/2017/08/07/uber-co-founder-garrett-camp-reportedly-says-travis-is-not-returning-as-ceo/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2017/08/07/uber-co-founder-garrett-camp-reportedly-says-travis-is-not-returning-as-ceo/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2012/09/517478738_3_o.jpg?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2012/09/517478738_3_o.jpg" type="image/jpeg" medium="image"><media:title type="html">Uber%20co-founder%20Garrett%20Camp%20reportedly%20says%20%26%238216%3BTravis%20is%20not%20returning%20as%26nbsp%3BCEO%26%238217%3B</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2012/09/517478738_3_o.jpg" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2012/09/517478738_3_o.jpg" medium="image">
+			<media:title type="html">Travis Kalanick Onstage at Disrupt</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/e64a35398ab7fb3ff0de4f0817dc1c78?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">mdickey</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Hampton Creek says the FDA has cleared its products, wants to hear back from Target</title>
+		<link>https://techcrunch.com/2017/08/07/hampton-creek-says-the-fda-has-cleared-its-products-wants-to-hear-back-from-target/?ncid=rss</link>
+		<comments>https://techcrunch.com/2017/08/07/hampton-creek-says-the-fda-has-cleared-its-products-wants-to-hear-back-from-target/#respond</comments>
+		<pubDate>Mon, 07 Aug 2017 19:19:30 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Buhr]]></dc:creator>
+				<category><![CDATA[Health]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[food safety]]></category>
+		<category><![CDATA[hampton creek]]></category>
+		<category><![CDATA[Food and Drug Administration]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1524339</guid>
+		<description><![CDATA[<img width="680" height="454" src="https://tctechcrunch2011.files.wordpress.com/2014/12/hampton-creek-foods_day1_-6.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2014/12/hampton-creek-foods_day1_-6.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2014/12/hampton-creek-foods_day1_-6.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2014/12/hampton-creek-foods_day1_-6.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2014/12/hampton-creek-foods_day1_-6.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2014/12/hampton-creek-foods_day1_-6.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;Hampton Creek has just informed TechCrunch that the U.S. Food and Drug Administration has approved of the safety and labeling of all of its products. It would now like to know if Target wants to put them back on the shelf. In late June, the retail giant yanked Hampton Creek&#8217;s Just Mayo eggless mayonnaise spread, along with 20 other products from all stores and on Target.com after hearing&hellip; <a href="https://techcrunch.com/2017/08/07/hampton-creek-says-the-fda-has-cleared-its-products-wants-to-hear-back-from-target/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2017/08/07/hampton-creek-says-the-fda-has-cleared-its-products-wants-to-hear-back-from-target/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2014/12/hampton-creek-foods_day1_-6.jpg?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/12/hampton-creek-foods_day1_-6.jpg" type="image/jpeg" medium="image"><media:title type="html">Hampton%20Creek%20says%20the%20FDA%20has%20cleared%20its%20products%2C%20wants%20to%20hear%20back%20from%26nbsp%3BTarget</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2014/12/hampton-creek-foods_day1_-6.jpg" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/12/hampton-creek-foods_day1_-6.jpg" medium="image">
+			<media:title type="html">Hampton Creek</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/fd29b49402f568221dff899bf12b7c14?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">sarahbuhr</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>WannaCry hero heads into Tuesday hearing as the security community crowdfunds his defense</title>
+		<link>https://techcrunch.com/2017/08/07/marcus-hutchins-legal-defense-fund-malwaretech/?ncid=rss</link>
+		<comments>https://techcrunch.com/2017/08/07/marcus-hutchins-legal-defense-fund-malwaretech/#respond</comments>
+		<pubDate>Mon, 07 Aug 2017 18:52:56 +0000</pubDate>
+		<dc:creator><![CDATA[Taylor Hatmaker]]></dc:creator>
+				<category><![CDATA[Hack]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Marcus Hutchins]]></category>
+		<category><![CDATA[Kronos]]></category>
+		<category><![CDATA[wannacry]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[FBI]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1524289</guid>
+		<description><![CDATA[<img width="680" height="432" src="https://tctechcrunch2011.files.wordpress.com/2017/01/gettyimages-136799367.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2017/01/gettyimages-136799367.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2017/01/gettyimages-136799367.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2017/01/gettyimages-136799367.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2017/01/gettyimages-136799367.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2017/01/gettyimages-136799367.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;Over the weekend, the security community raised legal funds for Marcus Hutchins, the researcher famed for stopping the spread of the malware known as WannaCry. Hutchins, also known as MalwareTech, was arrested by the FBI last week for his alleged role in disseminating Kronos, a banking trojan that first wrought havoc in 2014. <a href="https://techcrunch.com/2017/08/07/marcus-hutchins-legal-defense-fund-malwaretech/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2017/08/07/marcus-hutchins-legal-defense-fund-malwaretech/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/01/gettyimages-136799367.jpg?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/01/gettyimages-136799367.jpg" type="image/jpeg" medium="image"><media:title type="html">WannaCry%20hero%20heads%20into%20Tuesday%20hearing%20as%20the%20security%20community%20crowdfunds%20his%26nbsp%3Bdefense</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/01/gettyimages-136799367.jpg" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/01/gettyimages-136799367.jpg" medium="image">
+			<media:title type="html">Close-up of the part of a marble statue representing Themis, the Goddess of Justice at Brittany parliament, France</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/3436ad42e80c700e632782e3c5e0e80e?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">taylortechcrunch</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/08/screen-shot-2017-08-07-at-11-35-27-am.png?w=680" medium="image" />
+	</item>
+		<item>
+		<title>Vive Studios releases MakeVR Pro 3D modeling software for serious creatives</title>
+		<link>https://techcrunch.com/2017/08/07/vive-studios-releases-makevr-pro-3d-modeling-software-for-serious-creatives/?ncid=rss</link>
+		<comments>https://techcrunch.com/2017/08/07/vive-studios-releases-makevr-pro-3d-modeling-software-for-serious-creatives/#respond</comments>
+		<pubDate>Mon, 07 Aug 2017 18:44:28 +0000</pubDate>
+		<dc:creator><![CDATA[Lucas Matney]]></dc:creator>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Virtual Reality]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1524250</guid>
+		<description><![CDATA[<img width="680" height="382" src="https://tctechcrunch2011.files.wordpress.com/2017/08/w1270q85-1.jpeg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2017/08/w1270q85-1.jpeg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2017/08/w1270q85-1.jpeg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2017/08/w1270q85-1.jpeg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2017/08/w1270q85-1.jpeg?w=768 768w, https://tctechcrunch2011.files.wordpress.com/2017/08/w1270q85-1.jpeg 1270w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;In the world of high-end virtual reality, the battle is to capture the larger subset of a niche market. For HTC, which makes the Vive headset, this task has become more difficult as significant price cuts (some temporary) from Facebook&apos;s Oculus have left HTC selling comparable hardware at double the price ($799 vs. $399). Though price cuts may be inevitable, for HTC their main focus has&hellip; <a href="https://techcrunch.com/2017/08/07/vive-studios-releases-makevr-pro-3d-modeling-software-for-serious-creatives/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2017/08/07/vive-studios-releases-makevr-pro-3d-modeling-software-for-serious-creatives/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/08/w1270q85-1.jpeg?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/08/w1270q85-1.jpeg" type="image/jpeg" medium="image"><media:title type="html">Vive%20Studios%20releases%20MakeVR%20Pro%203D%20modeling%20software%20for%20serious%26nbsp%3Bcreatives</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/08/w1270q85-1.jpeg" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/08/w1270q85-1.jpeg" medium="image">
+			<media:title type="html">w1270q85 (1)</media:title>
+		</media:content>
+
+		<media:content url="http://1.gravatar.com/avatar/ac0471089769c31246f411dc339104f8?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">lucasmatney2015</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>HomePod firmware hints at upcoming Apple TV with 4K support</title>
+		<link>https://techcrunch.com/2017/08/07/homepod-firmware-hints-at-upcoming-apple-tv-with-4k-support/?ncid=rss</link>
+		<comments>https://techcrunch.com/2017/08/07/homepod-firmware-hints-at-upcoming-apple-tv-with-4k-support/#respond</comments>
+		<pubDate>Mon, 07 Aug 2017 18:37:49 +0000</pubDate>
+		<dc:creator><![CDATA[Romain Dillet]]></dc:creator>
+				<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[apple tv]]></category>
+		<category><![CDATA[rumor]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1524327</guid>
+		<description><![CDATA[<img width="680" height="448" src="https://tctechcrunch2011.files.wordpress.com/2016/08/gettyimages-487396150.jpg?w=680" class="attachment-large size-large wp-post-image" alt="Tim Cook at Apple event standing in front of big sign: &quot;The Future of TV is apps.&quot;" srcset="https://tctechcrunch2011.files.wordpress.com/2016/08/gettyimages-487396150.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2016/08/gettyimages-487396150.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2016/08/gettyimages-487396150.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2016/08/gettyimages-487396150.jpg?w=768 768w, https://tctechcrunch2011.files.wordpress.com/2016/08/gettyimages-487396150.jpg 1024w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;Last week, Apple accidentally released a firmware for the HomePod. This file is filled with references to unreleased Apple devices. According to strings in a library file spotted by Guilherme Rambo, the next Apple TV is going to support 4K videos as well as Dolby Vision, HDR10 and Hybrid Log-Gamma. <a href="https://techcrunch.com/2017/08/07/homepod-firmware-hints-at-upcoming-apple-tv-with-4k-support/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2017/08/07/homepod-firmware-hints-at-upcoming-apple-tv-with-4k-support/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/08/gettyimages-487396150.jpg?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2016/08/gettyimages-487396150.jpg" type="image/jpeg" medium="image"><media:title type="html">HomePod%20firmware%20hints%20at%20upcoming%20Apple%20TV%20with%204K%26nbsp%3Bsupport</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/08/gettyimages-487396150.jpg" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2016/08/gettyimages-487396150.jpg" medium="image">
+			<media:title type="html">Apple Unveils New Versions Of iPhone 6, Apple TV</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/2e71de62bf8a99d74a58f1546494fe82?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">romaindillet</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Lambda School aims to cash in by upskilling untapped talent</title>
+		<link>https://techcrunch.com/2017/08/07/lambda-school-aims-to-cash-in-by-upskilling-untapped-talent/?ncid=rss</link>
+		<comments>https://techcrunch.com/2017/08/07/lambda-school-aims-to-cash-in-by-upskilling-untapped-talent/#respond</comments>
+		<pubDate>Mon, 07 Aug 2017 17:39:07 +0000</pubDate>
+		<dc:creator><![CDATA[Natasha Lomas]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Diversity]]></category>
+		<category><![CDATA[Education]]></category>
+		<category><![CDATA[Finance]]></category>
+		<category><![CDATA[Fundings & Exits]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Lambda School]]></category>
+		<category><![CDATA[Y Combinator]]></category>
+		<category><![CDATA[yc]]></category>
+		<category><![CDATA[fintech]]></category>
+		<category><![CDATA[computer science]]></category>
+		<category><![CDATA[Distance learning]]></category>
+		<category><![CDATA[bootcamp]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1524161</guid>
+		<description><![CDATA[<img width="680" height="461" src="https://tctechcrunch2011.files.wordpress.com/2017/06/gettyimages-rbrb_2118.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2017/06/gettyimages-rbrb_2118.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2017/06/gettyimages-rbrb_2118.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2017/06/gettyimages-rbrb_2118.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2017/06/gettyimages-rbrb_2118.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2017/06/gettyimages-rbrb_2118.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;As the saying goes, the future is already here &#8212; it&#8217;s just not very evenly distributed. Also not evenly distributed: Access to the expensive education typically needed to stand a chance of obtaining one of the jobs of the future. Y Combinator backed Lambda School is hoping to change this, with a new approach to funding higher education. <a href="https://techcrunch.com/2017/08/07/lambda-school-aims-to-cash-in-by-upskilling-untapped-talent/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2017/08/07/lambda-school-aims-to-cash-in-by-upskilling-untapped-talent/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/06/gettyimages-rbrb_2118.jpg?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/06/gettyimages-rbrb_2118.jpg" type="image/jpeg" medium="image"><media:title type="html">Lambda%20School%20aims%20to%20cash%20in%20by%20upskilling%20untapped%26nbsp%3Btalent</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/06/gettyimages-rbrb_2118.jpg" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/06/gettyimages-rbrb_2118.jpg" medium="image">
+			<media:title type="html">shot of a laptop computer as the screen glows in the darkness</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/68a02f90ad0a6349a7b852ddce6f93e4?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">nelomas</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>YouTube roll out in-app video sharing and messaging to users worldwide</title>
+		<link>https://techcrunch.com/2017/08/07/youtube-roll-out-in-app-video-sharing-and-messaging-to-users-worldwide/?ncid=rss</link>
+		<comments>https://techcrunch.com/2017/08/07/youtube-roll-out-in-app-video-sharing-and-messaging-to-users-worldwide/#respond</comments>
+		<pubDate>Mon, 07 Aug 2017 17:33:43 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+				<category><![CDATA[TC]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1524279</guid>
+		<description><![CDATA[<img width="680" height="586" src="https://tctechcrunch2011.files.wordpress.com/2017/08/screen-shot-2017-08-07-at-1-28-59-pm.png?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2017/08/screen-shot-2017-08-07-at-1-28-59-pm.png?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2017/08/screen-shot-2017-08-07-at-1-28-59-pm.png?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2017/08/screen-shot-2017-08-07-at-1-28-59-pm.png?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2017/08/screen-shot-2017-08-07-at-1-28-59-pm.png?w=768 768w, https://tctechcrunch2011.files.wordpress.com/2017/08/screen-shot-2017-08-07-at-1-28-59-pm.png 1110w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;YouTube today is launching a new sharing feature in its mobile app, previously in testing with users in select markets. The feature allows YouTube users to send their friends videos and chat from within a new tab in the mobile app &#8211; effectively turning YouTube into a mobile messenger of sorts.
+The feature has been in testing since the middle of last year, and, at the beginning of 2017&#8230; <a href="https://techcrunch.com/2017/08/07/youtube-roll-out-in-app-video-sharing-and-messaging-to-users-worldwide/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2017/08/07/youtube-roll-out-in-app-video-sharing-and-messaging-to-users-worldwide/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/08/screen-shot-2017-08-07-at-1-28-59-pm.png?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/08/screen-shot-2017-08-07-at-1-28-59-pm.png" type="image/png" medium="image"><media:title type="html">YouTube%20roll%20out%20in-app%20video%20sharing%20and%20messaging%20to%20users%26nbsp%3Bworldwide</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/08/screen-shot-2017-08-07-at-1-28-59-pm.png" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/08/screen-shot-2017-08-07-at-1-28-59-pm.png" medium="image">
+			<media:title type="html">Screen Shot 2017-08-07 at 1.28.59 PM</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/5225bb627e112543aa03bf3b2958be3f?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">sarahintampa</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Apple just released iOS 11 developer beta 5</title>
+		<link>https://techcrunch.com/2017/08/07/apple-just-released-ios-11-developer-beta-5/?ncid=rss</link>
+		<comments>https://techcrunch.com/2017/08/07/apple-just-released-ios-11-developer-beta-5/#respond</comments>
+		<pubDate>Mon, 07 Aug 2017 17:08:08 +0000</pubDate>
+		<dc:creator><![CDATA[Romain Dillet]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[ios 11]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1524267</guid>
+		<description><![CDATA[<img width="680" height="510" src="https://tctechcrunch2011.files.wordpress.com/2017/06/ios-11-preview-5.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2017/06/ios-11-preview-5.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2017/06/ios-11-preview-5.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2017/06/ios-11-preview-5.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2017/06/ios-11-preview-5.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2017/06/ios-11-preview-5.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;Apple just dropped a brand new beta for your favorite iOS update of the year. While iOS 11 isn&#8217;t coming out until September, the company has been testing the new version for a couple of months already. I still don&#8217;t recommend installing the beta on a device you use every day, unless you&#8217;re willing to live with bugs, crashes and poor performance. The fifth beta is only&hellip; <a href="https://techcrunch.com/2017/08/07/apple-just-released-ios-11-developer-beta-5/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2017/08/07/apple-just-released-ios-11-developer-beta-5/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/06/ios-11-preview-5.jpg?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/06/ios-11-preview-5.jpg" type="image/jpeg" medium="image"><media:title type="html">Apple%20just%20released%20iOS%2011%20developer%20beta%26nbsp%3B5</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/06/ios-11-preview-5.jpg" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/06/ios-11-preview-5.jpg" medium="image">
+			<media:title type="html">iOS 11 preview - 5</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/2e71de62bf8a99d74a58f1546494fe82?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">romaindillet</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Personal Audio loses its appeal for podcasting patent</title>
+		<link>https://techcrunch.com/2017/08/07/personal-audio-loses-its-appeal-for-podcasting-patent/?ncid=rss</link>
+		<comments>https://techcrunch.com/2017/08/07/personal-audio-loses-its-appeal-for-podcasting-patent/#respond</comments>
+		<pubDate>Mon, 07 Aug 2017 17:01:13 +0000</pubDate>
+		<dc:creator><![CDATA[Brian Heater]]></dc:creator>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[personal audio]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[patent]]></category>
+		<category><![CDATA[troll]]></category>
+		<category><![CDATA[EFF]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1524238</guid>
+		<description><![CDATA[<img width="680" height="463" src="https://tctechcrunch2011.files.wordpress.com/2017/08/gettyimages-162718403.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2017/08/gettyimages-162718403.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2017/08/gettyimages-162718403.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2017/08/gettyimages-162718403.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2017/08/gettyimages-162718403.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2017/08/gettyimages-162718403.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;A year after taking up the case, the US Court of Appeals for the Federal Circuit has ruled in favor of the Electronic Frontier Foundation in its challenge against podcasting patent troll, Personal Audio. The decision is a massive relief for the vibrant and ever-growing medium, which has been operated under the threat of lawsuit for a number of years.  It&#8217;s also part of the&hellip; <a href="https://techcrunch.com/2017/08/07/personal-audio-loses-its-appeal-for-podcasting-patent/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2017/08/07/personal-audio-loses-its-appeal-for-podcasting-patent/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/08/gettyimages-162718403.jpg?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/08/gettyimages-162718403.jpg" type="image/jpeg" medium="image"><media:title type="html">Personal%20Audio%20loses%20its%20appeal%20for%20podcasting%26nbsp%3Bpatent</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/08/gettyimages-162718403.jpg" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/08/gettyimages-162718403.jpg" medium="image">
+			<media:title type="html">Slaphead/iStock</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/69b6dc548d05dedd0132f12e075bf7de?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">bheater</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Venmo rolls out QR codes for user profiles in its mobile app</title>
+		<link>https://techcrunch.com/2017/08/07/venmo-rolls-out-qr-codes-for-user-profiles-in-its-mobile-app/?ncid=rss</link>
+		<comments>https://techcrunch.com/2017/08/07/venmo-rolls-out-qr-codes-for-user-profiles-in-its-mobile-app/#respond</comments>
+		<pubDate>Mon, 07 Aug 2017 16:56:41 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Finance]]></category>
+		<category><![CDATA[Venmo]]></category>
+		<category><![CDATA[qr codes]]></category>
+		<category><![CDATA[payments]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[iOS apps]]></category>
+		<category><![CDATA[android apps]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1524207</guid>
+		<description><![CDATA[<img width="680" height="453" src="https://tctechcrunch2011.files.wordpress.com/2015/06/venmo-2.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2015/06/venmo-2.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2015/06/venmo-2.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2015/06/venmo-2.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2015/06/venmo-2.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2015/06/venmo-2.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;Venmo today rolled out a feature designed to make it easier to find friends within its mobile payments app, so you can add them to your connections list or get paid yourself. The feature, found under the new menu option &#8220;Scan Code,&#8221; is available now in both the iOS and Android version of the Venmo app. When tapped, it launches a new interface that allows you to either use the&#8230; <a href="https://techcrunch.com/2017/08/07/venmo-rolls-out-qr-codes-for-user-profiles-in-its-mobile-app/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2017/08/07/venmo-rolls-out-qr-codes-for-user-profiles-in-its-mobile-app/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2015/06/venmo-2.jpg?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2015/06/venmo-2.jpg" type="image/jpeg" medium="image"><media:title type="html">Venmo%20rolls%20out%20QR%20codes%20for%20user%20profiles%20in%20its%20mobile%26nbsp%3Bapp</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2015/06/venmo-2.jpg" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2015/06/venmo-2.jpg" medium="image">
+			<media:title type="html">venmo 2</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/5225bb627e112543aa03bf3b2958be3f?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">sarahintampa</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/08/venmo_codes.png?w=382" medium="image" />
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/08/venmo-codes-intro2.png?w=84" medium="image" />
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/08/venmo-qr.jpg?w=84" medium="image" />
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/08/venmo_codes.png?w=84" medium="image" />
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/08/venmo-codes-official.png?w=150" medium="image" />
+	</item>
+		<item>
+		<title>Uber discloses details of Travis Kalanick&#8217;s deposition in Waymo lawsuit</title>
+		<link>https://techcrunch.com/2017/08/07/uber-discloses-details-of-travis-kalanicks-deposition-in-waymo-lawsuit/?ncid=rss</link>
+		<comments>https://techcrunch.com/2017/08/07/uber-discloses-details-of-travis-kalanicks-deposition-in-waymo-lawsuit/#respond</comments>
+		<pubDate>Mon, 07 Aug 2017 16:52:39 +0000</pubDate>
+		<dc:creator><![CDATA[Megan Rose Dickey]]></dc:creator>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Uber]]></category>
+		<category><![CDATA[Waymo Uber]]></category>
+		<category><![CDATA[Travis Kalanick]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1524191</guid>
+		<description><![CDATA[<img width="680" height="453" src="https://tctechcrunch2011.files.wordpress.com/2017/08/gettyimages-543263066.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2017/08/gettyimages-543263066.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2017/08/gettyimages-543263066.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2017/08/gettyimages-543263066.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2017/08/gettyimages-543263066.jpg?w=768 768w, https://tctechcrunch2011.files.wordpress.com/2017/08/gettyimages-543263066.jpg 1024w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;Uber unsealed former CEO Travis Kalanick&#8217;s deposition in the Uber versus Waymo self-driving car technology case over the weekend. Kalanick, who was deposed for more than six hours last month, spoke about when he learned that Anthony Levandowski, who formerly worked at Google, downloaded documents related self-driving technology. &#8220;The deposition yet again confirms that Uber was&hellip; <a href="https://techcrunch.com/2017/08/07/uber-discloses-details-of-travis-kalanicks-deposition-in-waymo-lawsuit/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2017/08/07/uber-discloses-details-of-travis-kalanicks-deposition-in-waymo-lawsuit/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/08/gettyimages-543263066.jpg?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/08/gettyimages-543263066.jpg" type="image/jpeg" medium="image"><media:title type="html">Uber%20discloses%20details%20of%20Travis%20Kalanick%26%238217%3Bs%20deposition%20in%20Waymo%26nbsp%3Blawsuit</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/08/gettyimages-543263066.jpg" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/08/gettyimages-543263066.jpg" medium="image">
+			<media:title type="html">travis kalanick</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/e64a35398ab7fb3ff0de4f0817dc1c78?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">mdickey</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Iflix raises $133M for its Netflix-style service for emerging markets</title>
+		<link>https://techcrunch.com/2017/08/07/iflix-133m/?ncid=rss</link>
+		<comments>https://techcrunch.com/2017/08/07/iflix-133m/#respond</comments>
+		<pubDate>Mon, 07 Aug 2017 16:10:15 +0000</pubDate>
+		<dc:creator><![CDATA[Jon Russell]]></dc:creator>
+				<category><![CDATA[Asia]]></category>
+		<category><![CDATA[Fundings & Exits]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[iflix]]></category>
+		<category><![CDATA[streaming]]></category>
+		<category><![CDATA[economy]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[computing]]></category>
+		<category><![CDATA[Netflix]]></category>
+		<category><![CDATA[Startup company]]></category>
+		<category><![CDATA[Evolution Media]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1524169</guid>
+		<description><![CDATA[<img width="680" height="510" src="https://tctechcrunch2011.files.wordpress.com/2017/08/photo-07-08-2017-10-57-07-pm.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2017/08/photo-07-08-2017-10-57-07-pm.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2017/08/photo-07-08-2017-10-57-07-pm.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2017/08/photo-07-08-2017-10-57-07-pm.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2017/08/photo-07-08-2017-10-57-07-pm.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2017/08/photo-07-08-2017-10-57-07-pm.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;Iflix, an Asia-based startup providing Netflix-like streaming services in emerging markets, has landed $133 million in fresh funding to accelerate its business. The investment was led by U.S. media conglomerate Hearst, which counts BuzzFeed, Vice and Roku among its investment portfolio. The group was joined by another new backer EDBI &#8212; the corporate investment arm of the Singapore&hellip; <a href="https://techcrunch.com/2017/08/07/iflix-133m/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2017/08/07/iflix-133m/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/08/photo-07-08-2017-10-57-07-pm.jpg?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/08/photo-07-08-2017-10-57-07-pm.jpg" type="image/jpeg" medium="image"><media:title type="html">Iflix%20raises%20%24133M%20for%20its%20Netflix-style%20service%20for%20emerging%26nbsp%3Bmarkets</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/08/photo-07-08-2017-10-57-07-pm.jpg" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/08/photo-07-08-2017-10-57-07-pm.jpg" medium="image">
+			<media:title type="html">iflix</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/5f5876ccfd72ee5c2620b86429e8caf5?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">Jon</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/08/iflix-playlists-th.jpg?w=680" medium="image" />
+	</item>
+		<item>
+		<title>TabBank lets you generate instant guitar tabs</title>
+		<link>https://techcrunch.com/2017/08/07/tabbank-lets-you-generate-instant-guitar-tabs/?ncid=rss</link>
+		<comments>https://techcrunch.com/2017/08/07/tabbank-lets-you-generate-instant-guitar-tabs/#respond</comments>
+		<pubDate>Mon, 07 Aug 2017 16:01:02 +0000</pubDate>
+		<dc:creator><![CDATA[John Biggs]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Music]]></category>
+		<category><![CDATA[guitar]]></category>
+		<category><![CDATA[SE]]></category>
+		<category><![CDATA[tabs]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1524180</guid>
+		<description><![CDATA[<img width="636" height="354" src="https://tctechcrunch2011.files.wordpress.com/2014/06/guitar_baby__-_youtube.jpg?w=636" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2014/06/guitar_baby__-_youtube.jpg 636w, https://tctechcrunch2011.files.wordpress.com/2014/06/guitar_baby__-_youtube.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2014/06/guitar_baby__-_youtube.jpg?w=300 300w" sizes="(max-width: 636px) 100vw, 636px" />&nbsp;In the days before electronic music, musicians used to have to play things called &#8220;guitars.&#8221; There are very few players left among us with the skills necessary to play this seemingly lost instrument but programmer Chris Ladd hopes to resurrect the so-called &#8220;git-fiddle&#8221; with modern technology. Ladd, a former programmer for the New York Times, created TabBank, a&hellip; <a href="https://techcrunch.com/2017/08/07/tabbank-lets-you-generate-instant-guitar-tabs/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2017/08/07/tabbank-lets-you-generate-instant-guitar-tabs/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2014/06/guitar_baby__-_youtube.jpg?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/06/guitar_baby__-_youtube.jpg" type="image/jpeg" medium="image"><media:title type="html">TabBank%20lets%20you%20generate%20instant%20guitar%26nbsp%3Btabs</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2014/06/guitar_baby__-_youtube.jpg" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/06/guitar_baby__-_youtube.jpg" medium="image">
+			<media:title type="html">Guitar_Baby__-_YouTube</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/c0a943f484a32e62ed3bc81dd0dd25da?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">john</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/08/img_1593.png" medium="image" />
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/08/img_1591.png" medium="image" />
+	</item>
+	</channel>
+</rss>
