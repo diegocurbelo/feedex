@@ -20,7 +20,7 @@ defmodule Feedex.Mixfile do
     [{:ex_doc, ">= 0.0.0", only: :dev},
      {:html_sanitize_ex, "~> 1.3"},
      {:httpoison, "~> 0.13"},
-     {:parallel, "~> 0.0.3"},
+     {:sweet_xml, "~> 0.6.5"},
      {:timex, "~> 3.1"}]
   end
 

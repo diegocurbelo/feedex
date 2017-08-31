@@ -11,7 +11,7 @@ Add `feedex` to your list of dependencies in `mix.exs`:
 
 ```elixir
 def deps do
-  [{:feedex, "~> 0.0.2"}]
+  [{:feedex, "~> 0.1.0"}]
 end
 ```
 
@@ -31,6 +31,25 @@ end
 > feed.entries |> Enum.map(&(&1.title))
 ["Are you the lucky one ?", "Hide and Seek", "Playing guitar for little cate", ...]
 ```
+
+
+## Results
+
+#### Feed
+  - `id` feed identifier (usually the site url)
+  - `title` feed title
+  - `description` feed description
+  - `url` feed url
+  - `site_url` feed main site url
+  - `updated` feed last modification timestamp
+  - `entries` entry list
+
+#### Entry
+  - `id` unique identifier (SHA256)
+  - `title` entry title
+  - `url` entry permalink
+  - `content` entry content
+  - `updated` entry publication or modification timestamp
 
 
 ## Documentation

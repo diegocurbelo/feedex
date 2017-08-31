@@ -1,4 +1,6 @@
 defmodule Feedex.Helpers.Fetch do
+  @moduledoc false
+
   @opts [
     # follow_redirect: true,
     timeout: 15_000,

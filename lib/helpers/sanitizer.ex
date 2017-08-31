@@ -1,4 +1,6 @@
 defmodule Feedex.Helpers.Sanitizer do
+  @moduledoc false
+  
   alias HtmlSanitizeEx.Scrubber
   alias Feedex.Helpers.Sanitizers.HTML
 
