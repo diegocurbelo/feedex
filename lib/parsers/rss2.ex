@@ -51,28 +51,28 @@ defmodule Feedex.Parsers.RSS2 do
 
   defp get_feed_id(feed) do
     cond do
-      "" != feed.url      -> feed.url
+      "" != feed.url -> feed.url
       true -> nil
     end
   end
 
   defp get_feed_title(feed) do
     cond do
-      "" != feed.title      -> feed.title |> strip
+      "" != feed.title -> feed.title
       true -> nil
     end
   end
 
   defp get_feed_description(feed) do
     cond do
-      "" != feed.description     -> feed.description |> strip
+      "" != feed.description -> feed.description
       true -> nil
     end
   end
 
   defp get_feed_url(feed, url) do
     cond do
-      "" != feed.url      -> feed.url |> expand_relative_url(get_base_url(url))
+      "" != feed.url -> feed.url |> expand_relative_url(get_base_url(url))
       true -> url
     end
   end
@@ -103,14 +103,14 @@ defmodule Feedex.Parsers.RSS2 do
 
   defp get_entry_id(entry) do
     cond do
-      "" != entry.id      -> entry.id
+      "" != entry.id -> entry.id
       true -> nil
     end
   end
 
   defp get_entry_title(entry) do
     cond do
-      "" != entry.title     -> entry.title |> strip
+      "" != entry.title -> entry.title
       true -> ""
     end
   end
@@ -126,15 +126,15 @@ defmodule Feedex.Parsers.RSS2 do
 
   defp get_entry_content(entry) do
     cond do
-      "" != entry.encoded_content      -> entry.encoded_content |> strip
-      "" != entry.content     -> entry.content |> strip
+      "" != entry.encoded_content -> entry.encoded_content
+      "" != entry.content         -> entry.content
       true -> ""
     end
   end
 
   defp get_entry_date(entry, feed_date) do
     cond do
-      entry.updated        -> entry.updated
+      entry.updated -> entry.updated
       true -> feed_date
     end
   end

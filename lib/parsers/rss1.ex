@@ -5,24 +5,17 @@ defmodule Feedex.Parsers.RSS1 do
   import Feedex.Helpers.Xml
 
   @schema [
-    title:         ~x'/rdf:RDF/channel/title/text()'s |> transform_by(&strip/1),
-    rss_title:     ~x'/rdf:RDF/rss:channel/rss:title/text()'s |> transform_by(&strip/1),
-    description:     ~x'/rdf:RDF/channel/description/text()'s |> transform_by(&strip/1),
-    rss_description: ~x'/rdf:RDF/rss:channel/rss:description/text()'s |> transform_by(&strip/1),
-    url:            ~x'/rdf:RDF/channel/link/text()'s |> transform_by(&strip/1),
-    rss_url:        ~x'/rdf:RDF/rss:channel/rss:link/text()'s |> transform_by(&strip/1),
-    updated:       ~x'/rdf:RDF/channel/dc:date/text()'s |> transform_by(&parse_date/1),
-    rss_updated:   ~x'/rdf:RDF/rss:channel/dc:date/text()'s |> transform_by(&parse_date/1),
+    title: ~x'/rdf:RDF/channel/title/text()'s |> add_namespace("", "http://purl.org/rss/1.0/") |> transform_by(&strip/1),
+    description: ~x'/rdf:RDF/channel/description/text()'s |> add_namespace("", "http://purl.org/rss/1.0/") |> transform_by(&strip/1),
+    url: ~x'/rdf:RDF/channel/link/text()'s |> add_namespace("", "http://purl.org/rss/1.0/") |> transform_by(&strip/1),
+    updated: ~x'/rdf:RDF/channel/dc:date/text()'s |> add_namespace("", "http://purl.org/rss/1.0/") |> transform_by(&parse_date/1),
     entries: [ ~x'/rdf:RDF/item | /rdf:RDF/rss:item'l,
-      title:        ~x'./title/text()'s |> transform_by(&strip/1),
-      rss_title:    ~x'./rss:title/text()'s |> transform_by(&strip/1),
-      url:          ~x'./link/text()'s |> transform_by(&strip/1),
-      rss_url:      ~x'./rss:link/text()'s |> transform_by(&strip/1),
-      url_orig:     ~x'./feedburner:origLink/text()'s |> transform_by(&strip/1),
-      content:           ~x'./description/text()'s |> transform_by(&strip/1),
-      rss_content:       ~x'./rss:description/text()'s |> transform_by(&strip/1),
-      encoded_content:   ~x'./content:encoded/text()'s |> transform_by(&strip/1),
-      updated:           ~x'./dc:date/text()'s |> transform_by(&parse_date/1),
+      title: ~x'./title/text()'s |> add_namespace("", "http://purl.org/rss/1.0/") |> transform_by(&strip/1),
+      url: ~x'./link/text()'s |> add_namespace("", "http://purl.org/rss/1.0/") |> transform_by(&strip/1),
+      url_orig: ~x'./feedburner:origLink/text()'s |> transform_by(&strip/1),
+      content: ~x'./description/text()'s |> add_namespace("", "http://purl.org/rss/1.0/") |> transform_by(&strip/1),
+      encoded_content: ~x'./content:encoded/text()'s |> transform_by(&strip/1),
+      updated: ~x'./dc:date/text()'s |> transform_by(&parse_date/1),
     ]
   ]
 
@@ -55,40 +48,35 @@ defmodule Feedex.Parsers.RSS1 do
 
   defp get_feed_id(feed) do
     cond do
-      "" != feed.url      -> feed.url
-      "" != feed.rss_url  -> feed.rss_url
+      "" != feed.url -> feed.url
       true -> nil
     end
   end
 
   defp get_feed_title(feed) do
     cond do
-      "" != feed.title      -> feed.title |> strip
-      "" != feed.rss_title -> feed.rss_title |> strip
+      "" != feed.title -> feed.title
       true -> nil
     end
   end
 
   defp get_feed_description(feed) do
     cond do
-      "" != feed.description     -> feed.description |> strip
-      "" != feed.rss_description -> feed.rss_description |> strip
+      "" != feed.description -> feed.description
       true -> nil
     end
   end
 
   defp get_feed_url(feed, url) do
     cond do
-      "" != feed.url      -> feed.url |> expand_relative_url(get_base_url(url))
-      "" != feed.rss_url  -> feed.rss_url |> expand_relative_url(get_base_url(url))
+      "" != feed.url -> feed.url |> expand_relative_url(get_base_url(url))
       true -> url
     end
   end
 
   defp get_feed_date(feed) do
     cond do
-      feed.updated     -> feed.updated
-      feed.rss_updated -> feed.rss_updated
+      feed.updated -> feed.updated
       true -> Timex.now
     end
   end
@@ -111,8 +99,7 @@ defmodule Feedex.Parsers.RSS1 do
 
   defp get_entry_title(entry) do
     cond do
-      "" != entry.title     -> entry.title |> strip
-      "" != entry.rss_title -> entry.rss_title |> strip
+      "" != entry.title -> entry.title
       true -> ""
     end
   end
@@ -121,23 +108,21 @@ defmodule Feedex.Parsers.RSS1 do
     cond do
       "" != entry.url_orig -> entry.url_orig |> expand_relative_url(base_url)
       "" != entry.url      -> entry.url |> expand_relative_url(base_url)
-      "" != entry.rss_url  -> entry.rss_url |> expand_relative_url(base_url)
       true -> ""
     end
   end
 
   defp get_entry_content(entry) do
     cond do
-      "" != entry.encoded_content      -> entry.encoded_content |> strip
-      "" != entry.content     -> entry.content |> strip
-      "" != entry.rss_content -> entry.rss_content |> strip
+      "" != entry.encoded_content -> entry.encoded_content
+      "" != entry.content         -> entry.content
       true -> ""
     end
   end
 
   defp get_entry_date(entry, feed_date) do
     cond do
-      entry.updated        -> entry.updated
+      entry.updated -> entry.updated
       true -> feed_date
     end
   end

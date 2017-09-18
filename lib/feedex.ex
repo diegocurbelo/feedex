@@ -80,13 +80,13 @@ defmodule Feedex do
       {:ok, %{id: "http://9gagrss.com/", title: "9GAG RSS feed", description: "Free 9GAG RSS feed"...}}
 
       iex> Feedex.parse! "foo"
-      ** (ArgumentError) "foo" is not a valid xml
+      ** (ArgumentError) Not a valid XML
   """
   def parse!(xml, url \\ "") do
     with {:ok, feed} <- parse(xml, url) do
       feed
     else
-      _ -> raise ArgumentError, "#{inspect xml} is not a valid xml"
+      _ -> raise ArgumentError, "Not a valid XML"
     end
   end
 
