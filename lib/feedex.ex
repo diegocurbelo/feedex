@@ -104,7 +104,7 @@ defmodule Feedex do
   def fetch_and_parse(url) do
     with {:ok, xml}  <- Fetch.get(url),
          {:ok, feed} <- parse(xml, url) do
-      {:ok, feed}
+      {:ok, %{feed | url: url}}
     end
   end
 

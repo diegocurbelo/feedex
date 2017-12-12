@@ -7,17 +7,26 @@ defmodule Feedex.Helpers.Fetch do
     recv_timeout: 15_000
   ]
 
-  def get(url) do
-    case HTTPoison.get(url, [], @opts) do
-      {:ok, %HTTPoison.Response{status_code: 200, body: body}} -> {:ok, body}
+  def get("") do
+    {:error, :invalid_url}
+  end
+  def get(url) when is_binary(url) do
+    try do
+      case HTTPoison.get(url, [], @opts) do
+        {:ok, %HTTPoison.Response{status_code: 200, body: body}} -> {:ok, body}
 
-      {:ok, %HTTPoison.Response{status_code: 301, headers: headers}} -> redirect(url, headers)
-      {:ok, %HTTPoison.Response{status_code: 302, headers: headers}} -> redirect(url, headers)
-      {:ok, %HTTPoison.Response{status_code: 307, headers: headers}} -> redirect(url, headers)
+        {:ok, %HTTPoison.Response{status_code: 301, headers: headers}} -> redirect(url, headers)
+        {:ok, %HTTPoison.Response{status_code: 302, headers: headers}} -> redirect(url, headers)
+        {:ok, %HTTPoison.Response{status_code: 307, headers: headers}} -> redirect(url, headers)
 
-      _ -> {:error, :fetch_error}
+        _ -> {:error, :fetch_error}
+      end
+    rescue
+      _e in CaseClauseError -> {:error, :fetch_error}
     end
-    # |> evaluate
+  end
+  def get(_) do
+    {:error, :invalid_url}
   end
 
   # --

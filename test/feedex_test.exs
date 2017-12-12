@@ -64,4 +64,22 @@ defmodule FeedexTest do
     assert e.updated |> Timex.to_unix == 1504933200
   end
 
+  test "parse feed from blogger (seveloquedigo.com)" do
+    feed = File.read!("test/samples/seveloquedigo_blogger.xml") |> Feedex.parse!()
+    assert feed.id == "tag:blogger.com,1999:blog-8186734080099613199"
+    assert feed.title == "¿Se ve lo que digo?"
+    assert feed.description == "¡Bienvenidos! Pasen, miren y compartan si les gusta."
+    assert feed.url == "http://www.blogger.com/feeds/8186734080099613199/posts/default"
+    assert feed.site_url == "http://www.seveloquedigo.com/"
+    assert feed.updated |> Timex.to_unix == 1512312152
+    assert length(feed.entries) == 25
+
+    e = feed.entries |> Enum.at(0)
+    assert e.id == "8BA4E7F2D959E7ABE737A424AAB14FC7D717597861FD3361C852C8BFFD040934"
+    assert e.title == "2"
+    assert e.url == "http://www.seveloquedigo.com/2012/07/serie-que-esta-mal_22.html"
+    assert e.content == "<a href=\"http://1.bp.blogspot.com/-cQTzu8yNDwU/UAxcXUQZ-NI/AAAAAAAAAHM/Od67ZXQjvX8/s1600/2-Dora+la+exploradora-web.jpg\"><img src=\"http://1.bp.blogspot.com/-cQTzu8yNDwU/UAxcXUQZ-NI/AAAAAAAAAHM/Od67ZXQjvX8/s400/2-Dora+la+exploradora-web.jpg\" /></a><br />"
+    assert e.updated |> Timex.to_unix == 1353426494
+  end
+
 end
