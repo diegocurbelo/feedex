@@ -52,5 +52,20 @@ defmodule Feedex.Helpers.Sanitizers.HTML do
   allow_tag_with_uri_attributes   "source", ["src"], @valid_schemes
   allow_tag_with_these_attributes "source", ["lang", "title", "translate", "type", "media"]
 
+  allow_tag_with_these_attributes "iframe", ["frameborder", "webkitAllowFullScreen", "mozallowfullscreen", "allowFullScreen", "width", "height"]
+  def scrub_attribute("iframe", {"src", uri}) do
+    valid_schema = if String.match?(uri, @protocol_separator) do
+      case Regex.run(@scheme_capture, uri) do
+        [_, scheme, _] ->
+          Enum.any?(@valid_schemes, fn x -> x == scheme end)
+        nil ->
+          false
+      end
+    else
+      true
+    end
+    if valid_schema && String.match?(uri, ~r/http.?:\/\/(www\.)?youtu(be\.com|\.be)\/embed/mi), do: {"src", uri}
+  end
+
   strip_everything_not_covered()
 end

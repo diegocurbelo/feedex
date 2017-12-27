@@ -82,4 +82,22 @@ defmodule FeedexTest do
     assert e.updated |> Timex.to_unix == 1353426494
   end
 
+  test "parse feed from aot (with youtube embedded videos)" do
+    feed = File.read!("test/samples/aot.xml") |> Feedex.parse!()
+    assert feed.id == "http://memebase.cheezburger.com/artoftrolling"
+    assert feed.title == "Art of Trolling"
+    assert feed.description == "Learn from the best on how to deliver troll quality trolling without a care in the world."
+    assert feed.url == "http://memebase.cheezburger.com/artoftrolling"
+    assert feed.site_url == "http://memebase.cheezburger.com/artoftrolling"
+    assert feed.updated |> Timex.to_unix == 1514324949
+    assert length(feed.entries) == 50
+
+    e = feed.entries |> Enum.at(49)
+    assert e.id == "F6129D262BB492F5894B600031276C160595A0EAB59565AB40523931AECE6D67"
+    assert e.title == "Watch Coyote Peterson Get Stung by a Tarantula Hawk, the Second Most Painful Sting on the Planet"
+    assert e.url == "http://cheezburger.com/83129857/video-insect-sting-watch-coyote-peterson-get-stung-by-a-tarantula-hawk"
+    assert e.content |> String.contains?("<iframe src=\"http://www.youtube.com/embed/MnExgQ81fhU?searchbar=0&amp;iv_load_policy=3&amp;ap=%2526fmt%3D18&amp;wmode=transparent&amp;showinfo=0\" width=\"500\" height=\"412\" frameborder=\"0\" mozallowfullscreen=\"mozallowfullscreen\"></iframe>")
+    assert e.updated |> Timex.to_unix == 1476889200
+  end
+
 end
