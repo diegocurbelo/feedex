@@ -22,7 +22,7 @@ defmodule Feedex.Helpers.Fetch do
         _ -> {:error, :fetch_error}
       end
     rescue
-      _e in CaseClauseError -> {:error, :fetch_error}
+      CaseClauseError -> {:error, :fetch_error}
     end
   end
   def get(_) do

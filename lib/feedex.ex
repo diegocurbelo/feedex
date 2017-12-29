@@ -116,6 +116,8 @@ defmodule Feedex do
       {:ok, SweetXml.parse(xml, [quiet: true, namespace_conformant: true])}
     catch
       :exit, _ -> {:error, :invalid_xml}
+    rescue
+      FunctionClauseError -> {:error, :invalid_xml}
     end
   end
 
