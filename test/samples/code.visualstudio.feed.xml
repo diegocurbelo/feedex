@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text" xml:lang="en">Visual Studio Code - Code Editing. Redefined.</title>
+  <link type="application/atom+xml" href="http://code.visualstudio.com/feed.xml" rel="self"/>
+  <link type="text/html" href="http://code.visualstudio.com/" rel="alternate"/>
+  <updated>Wed Dec 20 2017 00:00:00 GMT+0000 (UTC)</updated>
+  <id>http://code.visualstudio.com/</id>
+  <rights>Copyright (c) 2016, Microsoft, Inc.; all rights reserved.</rights>
+
+  
+  <entry>
+    <title>What's New for Chrome debugging in VS Code</title>
+    <link href="http://code.visualstudio.com/blogs/2017/12/20/chrome-debugging"/>
+    <updated>Wed Dec 20 2017 00:00:00 GMT+0000 (UTC)</updated>
+    <id>http://code.visualstudio.com/blogs/2017/12/20/chrome-debugging</id>
+    <content type="html">&lt;p&gt;Learn what's new with Chrome debugging in Visual Studio Code&lt;/p&gt;&lt;p&gt;&lt;a href="http://code.visualstudio.com/blogs/2017/12/20/chrome-debugging"&gt;Read the full article&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <author>
+        <name>Kenneth Auchenberg</name>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>Visual Studio Code 2.6M Users, 12 months of momentum and more to come.</title>
+    <link href="http://code.visualstudio.com/blogs/2017/11/15/connect"/>
+    <updated>Tue Nov 14 2017 16:00:00 GMT-0800 (PST)</updated>
+    <id>http://code.visualstudio.com/blogs/2017/11/15/connect</id>
+    <content type="html">&lt;p&gt;Visual Studio Code 2.6M Users, 12 months of momentum and more to come. A summary of news from Connect(); 2017&lt;/p&gt;&lt;p&gt;&lt;a href="http://code.visualstudio.com/blogs/2017/11/15/connect"&gt;Read the full article&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <author>
+        <name>Sean McBreen</name>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>Introducing Visual Studio Live Share</title>
+    <link href="http://code.visualstudio.com/blogs/2017/11/15/live-share"/>
+    <updated>Tue Nov 14 2017 16:00:00 GMT-0800 (PST)</updated>
+    <id>http://code.visualstudio.com/blogs/2017/11/15/live-share</id>
+    <content type="html">&lt;p&gt;Real-time collaborative development&lt;/p&gt;&lt;p&gt;&lt;a href="http://code.visualstudio.com/blogs/2017/11/15/live-share"&gt;Read the full article&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <author>
+        <name>Amanda Silver</name>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>The Icon Journey</title>
+    <link href="http://code.visualstudio.com/blogs/2017/10/24/theicon"/>
+    <updated>Mon Oct 23 2017 17:00:00 GMT-0700 (PDT)</updated>
+    <id>http://code.visualstudio.com/blogs/2017/10/24/theicon</id>
+    <content type="html">&lt;p&gt;Summary of feedback about the new icons and next steps&lt;/p&gt;&lt;p&gt;&lt;a href="http://code.visualstudio.com/blogs/2017/10/24/theicon"&gt;Read the full article&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <author>
+        <name>Chris Dias</name>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>Integrated Terminal Performance Improvements</title>
+    <link href="http://code.visualstudio.com/blogs/2017/10/03/terminal-renderer"/>
+    <updated>Mon Oct 02 2017 17:00:00 GMT-0700 (PDT)</updated>
+    <id>http://code.visualstudio.com/blogs/2017/10/03/terminal-renderer</id>
+    <content type="html">&lt;p&gt;Explore the performance improvements made to Visual Studio Code's integrated terminal renderer in version 1.17&lt;/p&gt;&lt;p&gt;&lt;a href="http://code.visualstudio.com/blogs/2017/10/03/terminal-renderer"&gt;Read the full article&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <author>
+        <name>Daniel Imms</name>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>Using VS Code to Debug Java Applications</title>
+    <link href="http://code.visualstudio.com/blogs/2017/09/28/java-debug"/>
+    <updated>Wed Sep 27 2017 17:00:00 GMT-0700 (PDT)</updated>
+    <id>http://code.visualstudio.com/blogs/2017/09/28/java-debug</id>
+    <content type="html">&lt;p&gt;Using VS Code to Debug Java Applications&lt;/p&gt;&lt;p&gt;&lt;a href="http://code.visualstudio.com/blogs/2017/09/28/java-debug"&gt;Read the full article&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <author>
+        <name>Xiaokai He</name>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>Emmet 2.0 in Visual Studio Code</title>
+    <link href="http://code.visualstudio.com/blogs/2017/08/07/emmet-2.0"/>
+    <updated>Sun Aug 06 2017 17:00:00 GMT-0700 (PDT)</updated>
+    <id>http://code.visualstudio.com/blogs/2017/08/07/emmet-2.0</id>
+    <content type="html">&lt;p&gt;New Emmet 2.0 brings a better Emmet experience inside VS Code.&lt;/p&gt;&lt;p&gt;&lt;a href="http://code.visualstudio.com/blogs/2017/08/07/emmet-2.0"&gt;Read the full article&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <author>
+        <name>Ramya Rao</name>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>Fresh Paint - Give VS Code a New Look</title>
+    <link href="http://code.visualstudio.com/blogs/2017/06/20/great-looking-editor-roundup"/>
+    <updated>Mon Jun 19 2017 17:00:00 GMT-0700 (PDT)</updated>
+    <id>http://code.visualstudio.com/blogs/2017/06/20/great-looking-editor-roundup</id>
+    <content type="html">&lt;p&gt;Give VS Code a new look with these popular extensions, color themes, file icon themes and more.&lt;/p&gt;&lt;p&gt;&lt;a href="http://code.visualstudio.com/blogs/2017/06/20/great-looking-editor-roundup"&gt;Read the full article&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <author>
+        <name>Wade Anderson</name>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>Build 2017 Demo</title>
+    <link href="http://code.visualstudio.com/blogs/2017/05/10/build-2017-demo"/>
+    <updated>Tue May 09 2017 17:00:00 GMT-0700 (PDT)</updated>
+    <id>http://code.visualstudio.com/blogs/2017/05/10/build-2017-demo</id>
+    <content type="html">&lt;p&gt;Build 2017 Demo Visual Studio Code - Conquering the Cloud with an editor and a CLI&lt;/p&gt;&lt;p&gt;&lt;a href="http://code.visualstudio.com/blogs/2017/05/10/build-2017-demo"&gt;Read the full article&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <author>
+        <name>Chris Dias</name>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>Sublime Text Extension Roundup</title>
+    <link href="http://code.visualstudio.com/blogs/2017/04/10/sublime-text-roundup"/>
+    <updated>Sun Apr 09 2017 17:00:00 GMT-0700 (PDT)</updated>
+    <id>http://code.visualstudio.com/blogs/2017/04/10/sublime-text-roundup</id>
+    <content type="html">&lt;p&gt;Learn about VS Code extensions to add features that are missing from Sublime Text.&lt;/p&gt;&lt;p&gt;&lt;a href="http://code.visualstudio.com/blogs/2017/04/10/sublime-text-roundup"&gt;Read the full article&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <author>
+        <name>Wade Anderson</name>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>Visual Studio Code Extension Packs</title>
+    <link href="http://code.visualstudio.com/blogs/2017/03/07/extension-pack-roundup"/>
+    <updated>Mon Mar 06 2017 16:00:00 GMT-0800 (PST)</updated>
+    <id>http://code.visualstudio.com/blogs/2017/03/07/extension-pack-roundup</id>
+    <content type="html">&lt;p&gt;Learn how to create and use Extension Packs in Visual Studio Code.&lt;/p&gt;&lt;p&gt;&lt;a href="http://code.visualstudio.com/blogs/2017/03/07/extension-pack-roundup"&gt;Read the full article&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <author>
+        <name>Wade Anderson</name>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>Visual Studio Code Extensions using CodeLens</title>
+    <link href="http://code.visualstudio.com/blogs/2017/02/12/code-lens-roundup"/>
+    <updated>Sat Feb 11 2017 16:00:00 GMT-0800 (PST)</updated>
+    <id>http://code.visualstudio.com/blogs/2017/02/12/code-lens-roundup</id>
+    <content type="html">&lt;p&gt;Visual Studio Code Extensions using CodeLens&lt;/p&gt;&lt;p&gt;&lt;a href="http://code.visualstudio.com/blogs/2017/02/12/code-lens-roundup"&gt;Read the full article&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <author>
+        <name>Wade Anderson</name>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>Optimizations in Syntax Highlighting, a Visual Studio Code Story</title>
+    <link href="http://code.visualstudio.com/blogs/2017/02/08/syntax-highlighting-optimizations"/>
+    <updated>Tue Feb 07 2017 16:00:00 GMT-0800 (PST)</updated>
+    <id>http://code.visualstudio.com/blogs/2017/02/08/syntax-highlighting-optimizations</id>
+    <content type="html">&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://code.visualstudio.com/blogs/2017/02/08/syntax-highlighting-optimizations"&gt;Read the full article&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <author>
+        <name>Alexandru Dima</name>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>Node.js Development with Visual Studio Code and Azure</title>
+    <link href="http://code.visualstudio.com/blogs/2017/01/15/connect-nina-e2e"/>
+    <updated>Sat Jan 14 2017 16:00:00 GMT-0800 (PST)</updated>
+    <id>http://code.visualstudio.com/blogs/2017/01/15/connect-nina-e2e</id>
+    <content type="html">&lt;p&gt;Node.js Development with Visual Studio Code and Azure&lt;/p&gt;&lt;p&gt;&lt;a href="http://code.visualstudio.com/blogs/2017/01/15/connect-nina-e2e"&gt;Read the full article&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <author>
+        <name>Jonathan Carter</name>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>Customize VS Code Extension Roundup</title>
+    <link href="http://code.visualstudio.com/blogs/2016/12/12/roundup-customize"/>
+    <updated>Sun Dec 11 2016 16:00:00 GMT-0800 (PST)</updated>
+    <id>http://code.visualstudio.com/blogs/2016/12/12/roundup-customize</id>
+    <content type="html">&lt;p&gt;Extensions to customize Visual Studio Code.&lt;/p&gt;&lt;p&gt;&lt;a href="http://code.visualstudio.com/blogs/2016/12/12/roundup-customize"&gt;Read the full article&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <author>
+        <name>Wade Anderson</name>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>Hot Exit Comes to Insiders</title>
+    <link href="http://code.visualstudio.com/blogs/2016/11/30/hot-exit-in-insiders"/>
+    <updated>Tue Nov 29 2016 16:00:00 GMT-0800 (PST)</updated>
+    <id>http://code.visualstudio.com/blogs/2016/11/30/hot-exit-in-insiders</id>
+    <content type="html">&lt;p&gt;Unsaved changes are now remembered between Visual Studio Code sessions.&lt;/p&gt;&lt;p&gt;&lt;a href="http://code.visualstudio.com/blogs/2016/11/30/hot-exit-in-insiders"&gt;Read the full article&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <author>
+        <name>Daniel Imms</name>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>Creating a Formatter Extension</title>
+    <link href="http://code.visualstudio.com/blogs/2016/11/15/formatters-best-practices"/>
+    <updated>Sun Nov 20 2016 16:00:00 GMT-0800 (PST)</updated>
+    <id>http://code.visualstudio.com/blogs/2016/11/15/formatters-best-practices</id>
+    <content type="html">&lt;p&gt;Best practices for creating a Visual Studio Code formatter extension.&lt;/p&gt;&lt;p&gt;&lt;a href="http://code.visualstudio.com/blogs/2016/11/15/formatters-best-practices"&gt;Read the full article&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <author>
+        <name>Johannes Rieken</name>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>Visual Studio Code JavaScript Extensions Part 2 Oct 2016</title>
+    <link href="http://code.visualstudio.com/blogs/2016/10/31/js_roundup_2"/>
+    <updated>Sun Oct 30 2016 17:00:00 GMT-0700 (PDT)</updated>
+    <id>http://code.visualstudio.com/blogs/2016/10/31/js_roundup_2</id>
+    <content type="html">&lt;p&gt;Essential JavaScript extensions for Visual Studio Code.&lt;/p&gt;&lt;p&gt;&lt;a href="http://code.visualstudio.com/blogs/2016/10/31/js_roundup_2"&gt;Read the full article&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <author>
+        <name>Wade Anderson</name>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>Visual Studio Code JavaScript Extensions Part 1 Sep 2016</title>
+    <link href="http://code.visualstudio.com/blogs/2016/09/14/js_roundup_1"/>
+    <updated>Tue Sep 13 2016 17:00:00 GMT-0700 (PDT)</updated>
+    <id>http://code.visualstudio.com/blogs/2016/09/14/js_roundup_1</id>
+    <content type="html">&lt;p&gt;Essential JavaScript extensions for Visual Studio Code.&lt;/p&gt;&lt;p&gt;&lt;a href="http://code.visualstudio.com/blogs/2016/09/14/js_roundup_1"&gt;Read the full article&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <author>
+        <name>Wade Anderson</name>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>File and Folder Icons in Visual Studio Code</title>
+    <link href="http://code.visualstudio.com/blogs/2016/09/08/icon-themes"/>
+    <updated>Wed Sep 07 2016 17:00:00 GMT-0700 (PDT)</updated>
+    <id>http://code.visualstudio.com/blogs/2016/09/08/icon-themes</id>
+    <content type="html">&lt;p&gt;The Visual Studio Code Explorer now supports file and folder icons. VS Code ships with two icon themes and more are available on the Marketplace.&lt;/p&gt;&lt;p&gt;&lt;a href="http://code.visualstudio.com/blogs/2016/09/08/icon-themes"&gt;Read the full article&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <author>
+        <name>Chris Dias</name>
+    </author>
+  </entry>
+  
+</feed>
